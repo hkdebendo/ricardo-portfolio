@@ -25,6 +25,11 @@ Architecture MVC PHP, gestion des projets/actualités, modules multimédias, UI 
 
 ### 🔹 IA et analyse de données
 Détection émotionnelle dans la voix, analyse de sentiment sur réseaux sociaux.
+Prototype de reconnaissance des chiffres manuscrists entre 0 - 9 basé sur le
+ dataset MNIST.
+Prototype IA d’ anyle et de détection automatique de texte violant/offensif/haineux
+ et d’image à caractère sexuel. Le but est la modération des contenus mis sur
+ internet.
 
 ---
 
